@@ -1,2 +1,2 @@
-A not empty readme
-it is now updated
+#Updated README My first git project
+### This is updated
